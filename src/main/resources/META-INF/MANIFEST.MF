@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 1
+Bundle-Name: Nuxeo Test Jenkins
+Bundle-SymbolicName: org.nuxeo.test.jenkins;singleton:=true
+Bundle-Vendor: Nuxeo
+Bundle-Version: 1.0.0
